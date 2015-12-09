@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple 360 Video 設定</string>
+    <string name="please_choose_a_file">ファイルを選択してください。</string>
+    <string name="video_type">ビデオタイプ</string>
+    <string name="mono">通常動画</string>
+    <string name="horizontal_stereo">水平ステレオ</string>
+    <string name="vertical_stereo">垂直ステレオ</string>
+    <string name="choose_a_file">ファイルを選択</string>
+    <string name="user_control_enabled">ユーザーコントロールの有効化</string>
+    <string name="cannot_retrieve_media_info">メディア情報が取得できません。</string>
+</resources>

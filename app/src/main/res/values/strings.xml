@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple 360 Video</string>
+    <string name="time" formatted="false">%d:%02d</string>
+</resources>
